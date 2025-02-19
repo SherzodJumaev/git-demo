@@ -1,18 +1,5 @@
 sword and spear
 wall of shields
 standing strong
-<<<<<<< HEAD
-on this their chosen battle field
 
-wall of shields
-standing strong
-
-standing strong
-on this their chosen battle field
-
-Side by side
-We're marching into destiny
----------------------------------
-=======
-on this their chosen battle field
->>>>>>> 59f3af1df92cd5de2c3e35d45d42ec8af7e4ea78
+Hello World
